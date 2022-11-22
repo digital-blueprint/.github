@@ -1,5 +1,7 @@
 # digital blueprint
 
+![logo](https://static.digital-blueprint.org/cd/1.0/logo/svg/dbp_logo_on_white.svg)
+
 The project **digital blueprint** aims to build 
 all the neccessary tools and processes to develop applications that are 
 usable for a wide range of higher education institutions. Apps using 
