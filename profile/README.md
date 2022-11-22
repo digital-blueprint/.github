@@ -1,7 +1,7 @@
 # digital blueprint
 
 <div class="background: white">
-![logo](https://static.digital-blueprint.org/cd/1.0/logo/svg/dbp_logo_on_white.svg)
+    <img src="https://static.digital-blueprint.org/cd/1.0/logo/svg/dbp_logo_on_white.svg" alt="logo" />
 </div>
 
 The project **digital blueprint** aims to build 
