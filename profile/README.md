@@ -1,6 +1,8 @@
 # digital blueprint
 
+<div class="background: white">
 ![logo](https://static.digital-blueprint.org/cd/1.0/logo/svg/dbp_logo_on_white.svg)
+</div>
 
 The project **digital blueprint** aims to build 
 all the neccessary tools and processes to develop applications that are 
