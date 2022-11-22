@@ -1,6 +1,6 @@
 # digital blueprint
 
-<div class="background: white">
+<div style="background: white">
     <img src="https://static.digital-blueprint.org/cd/1.0/logo/svg/dbp_logo_on_white.svg" alt="logo" />
 </div>
 
